@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Business Text Summarizer",
+  "version": "1.0",
+  "description": "Translates complex business text into simple terms",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/icon.png"
+  },
+  "icons": {
+    "16": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  }
+}
+//ICON BY Nathania Desmonda Tjipto
